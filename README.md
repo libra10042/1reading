@@ -1,5 +1,6 @@
 ### Effective Java (book Study 📚)
 
+1회독 study
 
 ---
 
